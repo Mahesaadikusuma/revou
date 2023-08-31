@@ -125,6 +125,21 @@ body {
   width: 350px;
   height: 200px;
 }
+#emailError {
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
+
+#phoneError {
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
+
+#nameError {
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
+
 .image-container {
   flex: 1;
 }
