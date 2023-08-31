@@ -43,7 +43,7 @@ function clearErrors() {
   });
 }
 function isValidName(name) {
-  // Your email validation logic here
+  // Your name validation logic here
   return true;
 }
 
